@@ -1,6 +1,8 @@
 # vyo͞o
+Vyoo is an online catalogue and buying experience aimed at busy young professionals. Through the use of augmented reality, it enables homeowners to try their products in the ‘real’ world. Users can see if the furniture fits, and if it looks good - all from the comfort of their own homes.
 
-An web catalogue featuring an AR component ( https://github.com/hannahjn/argon-chair ) to try items in the 'real' world.
+# AR Repo
+https://github.com/hannahjn/argon-chair
 
 # Prerequisites
 Client Side:  
