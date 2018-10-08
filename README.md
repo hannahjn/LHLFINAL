@@ -1,45 +1,26 @@
 # vyo͞o
 Vyoo is an online catalogue and buying experience aimed at busy young professionals. Through the use of augmented reality, it enables homeowners to try their products in the ‘real’ world. Users can see if the furniture fits, and if it looks good - all from the comfort of their own homes.
 
-# AR Repo
-https://github.com/hannahjn/argon-chair
+### AR Repo
+https://github.com/hannahjn/vyoo-AR
 
-# Prerequisites
-Client Side:  
-    "bootstrap": "^4.1.3",  
-    "jquery": "^3.3.1",  
-    "jwt-decode": "^2.2.0",  
-    "popper.js": "^1.14.4",  
-    "react": "^16.5.2",  
-    "react-dom": "^16.5.2",  
-    "react-router-dom": "^4.3.1",  
-    "react-scripts": "1.1.5" . 
-
-Server Side:  
-    "bcryptjs": "^2.4.3",  
-    "bootstrap": "^4.1.3",  
-    "cookie-parser": "~1.4.3",  
-    "cors": "^2.8.4",  
-    "debug": "~2.6.9",  
-    "dotenv": "^6.0.0",  
-    "express": "~4.16.0",  
-    "http-errors": "~1.6.2",  
-    "jade": "~1.11.0",  
-    "jsonwebtoken": "^8.3.0",  
-    "knex": "^0.15.2",  
-    "morgan": "~1.9.0",  
-    "nodemon": "^1.18.4",  
-    "pg": "^7.4.3",  
-    "startbootstrap-thumbnail-gallery": "^4.1.1"  
+### Dependencies 
+bootstrap: 4.1.3 
+jquery: 3.3.1
+react: 16.5.2  
+bootstrap: 4.1.3  
+express: 4.16.0
+knex: 0.15.2
   
-  # Installation
+### Installation
+1. Clone repository
+2. Run `yarn install` to install dependencies. 
+3. For serverside, from within a VM, run `yarn start`
+4. For clientside, from outside a VM, run `yarn start`
+5. Navigate to localhost:3001
   
-  Run `yarn install`
-  
-  # Authors
-  Linh Le Kim  
-  Leisha Magsisi  
-  Hannah Norish  
+# Note
+Lighthouse Labs Montreal final project submission, by Linh Le Kim, Leisha Magsisi, and Hannah Norish.
   
   
   
