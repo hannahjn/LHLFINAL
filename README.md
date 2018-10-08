@@ -19,7 +19,7 @@ knex: 0.15.2
 4. For clientside, from outside a VM, run `yarn start`
 5. Navigate to localhost:3001
   
-# Note
+### Note
 Lighthouse Labs Montreal final project submission, by Linh Le Kim, Leisha Magsisi, and Hannah Norish.
   
   
